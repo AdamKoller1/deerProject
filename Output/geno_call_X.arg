@@ -1,0 +1,21 @@
+	-> angsd version: 0.937-92-g5cd355b (htslib: 1.14-9-ge769401) build(Jun 13 2022 14:36:06)
+	-> angsd -b bams_X -gl 2 -domajorminor 1 -snp_pval 1e-6 -domaf 1 -minmaf 0.05 -doGlf 3 -uniqueOnly 1 -remove_bads 1 -minMapQ 21 -minQ 25 -minInd 100 -doCounts 1 -doDepth 1 -dumpCounts 2 -doPost 1 -doGeno 4 -geno_minDepth 5 -postCutoff 0.95 -out geno_call_X 
+	-> Tue Oct  4 11:07:41 2022
+----------------
+multiReader.cpp:
+	-nLines	50	(Number of lines to read)
+	-beagle	(null)	(Beagle Filename (can be .gz))
+	-bgen	(null)	(Bgen Filename)
+	-vcf-GL	(null)	(vcf Filename (can be bcf compressed or uncompressed))
+	-vcf-PL	(null)	(vcf Filename (can be bcf compressed or uncompressed))
+	-vcf-GP	(null)	(vcf Filename (can be bcf compressed or uncompressed))(*not used)
+	-glf	(null)	(glf Filename (can be .gz))
+	-pileup	(null)	(pileup Filename (can be .gz))
+	-intName 1	(Assume First column is chr_position)
+	-isSim	1	(Simulated data assumes ancestral is A)
+	-nInd	0		(Number of individuals)
+	-minQ	25	(minimum base quality; only used in pileupreader)
+	-fai	(null)	(fai file)
+	-minQ	25	(minimum base quality; only used in pileupreader)
+----------------
+multiReader.cpp:

@@ -1,0 +1,11 @@
+ClusterIndex Probability          OffspringID             FatherID             MotherID
+           1      1.0000          43A_replic.                   *1                   #1
+           1      1.0000                  43A                   *1                   #1
+           2      1.0000          41A_replic.                   *2                   #2
+           2      1.0000                  41A                   *2                   #2
+           3      1.0000          65B_replic.                   *3                   #3
+           3      1.0000                  65B                   *3                   #3
+           4      1.0000           30_replic.                   *4                   #4
+           4      1.0000                   30                   *4                   #4
+           5      1.0000          37B_replic.                   *5                   #5
+           5      1.0000                  37B                   *5                   #5

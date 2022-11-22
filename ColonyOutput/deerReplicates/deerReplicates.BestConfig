@@ -1,0 +1,11 @@
+         OffspringID             FatherID             MotherID    CloneIndex  ClusterIndex
+         43A_replic.                   *1                   #1             1             1
+         41A_replic.                   *2                   #2             2             2
+         65B_replic.                   *3                   #3             3             3
+          30_replic.                   *4                   #4             4             4
+         37B_replic.                   *5                   #5             5             5
+                 65B                   *3                   #3             3             3
+                 37B                   *5                   #5             5             5
+                 43A                   *1                   #1             1             1
+                 41A                   *2                   #2             2             2
+                  30                   *4                   #4             4             4
